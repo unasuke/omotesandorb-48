@@ -1,8 +1,8 @@
 ---
 id: omotesandorb-48
 base_name: slide
-tags: []
-presentation_date: 
+tags: ['ruby']
+presentation_date: '2019-07-04'
 version: 1.0.0
 licenses: []
 slideshare_id: 
@@ -12,8 +12,8 @@ vimeo_id:
 youtube_id: 
 author:
   markup_language: :markdown
-  name: 
-  email: 
-  rubygems_user: 
+  name: unasuke
+  email: yusuke1994525@gmail.com
+  rubygems_user: unasuke
   slideshare_user: 
   speaker_deck_user: 

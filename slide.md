@@ -58,7 +58,7 @@ at 2019-06-20
 <https://github.com/sorbet/sorbet>
 
 # 「みんな型が欲しいっちゅってる」
-![](img/everybody-wants-type.png)
+![](img/everybody-wants-type.png){:relative_width="90"}
 
 # やること
 1. `gem 'sorbet', :group => :development`

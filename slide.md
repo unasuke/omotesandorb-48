@@ -24,6 +24,12 @@ theme
 
 ![](img/icon_raw.jpg){:relative_width="24" align="right" relative_margin_right="-10" relative_margin_top="42"}
 
+# 参加表明
+![](img/omotesandorb-connpass.png){:relative_width="100"}
+
+- ~~GitHubが落ちるときの話~~
+- Sorbetを~~applicationに導入して~~試してみる話
+
 # 型
 ![](img/tweet_holygrail_mechakucha.png){:relative_width="85"}
 

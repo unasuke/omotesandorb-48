@@ -1,6 +1,6 @@
-# TODO: スライドのタイトル
+# omotesandorb #48
 
-TODO: スライドの説明
+[表参道.rb #48 - connpass](https://omotesandorb.connpass.com/event/136761/)
 
 ## 作者向け
 
